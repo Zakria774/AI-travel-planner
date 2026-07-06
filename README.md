@@ -1,8 +1,4 @@
-Since this is for your portfolio, your GitHub repository should look professional. Recruiters often look at the README before they even open the code.
 
-Here’s a README I’d recommend.
-
-⸻
 
 ✈️ AI Travel Planner
 
